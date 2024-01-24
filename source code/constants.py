@@ -1,0 +1,5 @@
+XCORDINATES = "transactionXaxis"
+YCORDINATES = "transactionYaxis"
+DESCRIPTION = "description"
+FRAUDTRANSACTION = "fraudTransaction"
+TRANSACTIONAMOUNT = "transactionAmount"
